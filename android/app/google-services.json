@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "673663023780",
+    "project_id": "foodarn-3c1e7",
+    "storage_bucket": "foodarn-3c1e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673663023780:android:e6b528179faf24e919c431",
+        "android_client_info": {
+          "package_name": "com.foodarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673663023780-kt3aekb5cpf7d1n146926lj7fusqvpo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodarn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "673663023780-d33c35aeom0qaio9hi0ali0lsou5l73p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HHgTTGMuS8lqZ_hI8pg9Rsu1KwaL5hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673663023780-d33c35aeom0qaio9hi0ali0lsou5l73p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "673663023780-ajgqcj121tuv7qod11urr28q58ggjvi9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.foodaRN"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
