@@ -35,6 +35,10 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Fooda requires photo library access.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Fooda requires camera access to take photo.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
 	<key>UILaunchStoryboardName</key>
@@ -53,8 +57,11 @@
 	<false/>
 	<key>UIAppFonts</key>
 	<array>
-	  <string>MaterialIcons.ttf</string>
-	  <string>AntDesign.ttf</string>
+		<string>Fonts/NotoSansKR-Bold.otf</string>
+		<string>Fonts/NotoSansKR-Regular.otf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>AntDesign.ttf</string>
+		<string>EvilIcons.ttf</string>
 	</array>
 </dict>
 </plist>
